@@ -1,7 +1,6 @@
 # JavaTasks
 
-Some task from: Udemy course: "Java od Podstaw do Eksperta - twórz własne aplikacje"  
-nd website http://www.samouczekprogramisty.pl to practise: 
+Tasks from Udemy course: "Java od Podstaw do Eksperta - twórz własne aplikacje" and website http://www.samouczekprogramisty.pl to practise: 
 - inheritance
 - encapsulation
 - instanceOf
@@ -12,5 +11,3 @@ nd website http://www.samouczekprogramisty.pl to practise:
 - tables
 - exception
 - packages and objects
-
-
